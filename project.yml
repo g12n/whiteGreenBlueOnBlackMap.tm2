@@ -1,0 +1,27 @@
+_prefs: 
+  mapid: g12n.6b7cb051
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -63.6328
+  - 44.9026
+  - 3
+description: Style for very graphic maps. Harsch white lines on Black. Saturated green and blue for water and parks. This style is made for wrapping christmas presents with style.
+format: png24
+interactivity_layer: ''
+layers: null
+maxzoom: 22
+minzoom: 0
+name: White on Black Green and Blue
+source: "mapbox:///mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+template: ''
